@@ -1,0 +1,8 @@
+#div1{
+    width: 100px;
+    height: 100px;
+    background: green;
+    position: absolute;
+    filter:alpha(opacity:30);
+    opacity: .3;
+}
